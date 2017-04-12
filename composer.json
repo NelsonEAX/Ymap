@@ -1,0 +1,13 @@
+{
+    "name": "nelsoneax/ymap",
+    "description": "This package to change points on ymap",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "NelsonEAX",
+            "email": "nelsoneax@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
